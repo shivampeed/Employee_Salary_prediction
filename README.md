@@ -123,8 +123,8 @@ salary-prediction-app/
 ## 📬 Contact
 
 📧 Created with ❤️ by \[Your Name]
-🔗 GitHub: [@CodeWithDks](https://github.com/CodeWithDks)
-🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/deepaksinghai)
+🔗 GitHub: (https://github.com/shivampeed/)
+🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/Shivam Deep)
 
 
 ```
