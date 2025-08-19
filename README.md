@@ -124,7 +124,7 @@ salary-prediction-app/
 
 📧 Created with ❤️ by \[Your Name]
 🔗 GitHub: (https://github.com/shivampeed/)
-🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/Shivam Deep)
+🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ShivamDeep)
 
 
 ```
